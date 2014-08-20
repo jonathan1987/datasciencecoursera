@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-For The Data Scientist Toolbox Course on Coursera.org 
+For The Data Science Courses in the Coursera Data Science specialization .
